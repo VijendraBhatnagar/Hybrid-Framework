@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141373" started-at="2020-05-27T15:04:01Z" finished-at="2020-05-27T15:06:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141373" started-at="2020-05-27T15:04:01Z" finished-at="2020-05-27T15:06:22Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="setUp" is-config="true" duration-ms="37073" started-at="2020-05-27T20:34:01Z" finished-at="2020-05-27T20:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTest()[pri:1, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="loginPageTest" duration-ms="195" started-at="2020-05-27T20:34:38Z" finished-at="2020-05-27T20:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="setUp" is-config="true" duration-ms="37807" started-at="2020-05-27T20:34:38Z" finished-at="2020-05-27T20:35:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="crmLogoImageTest()[pri:2, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="crmLogoImageTest" duration-ms="817" started-at="2020-05-27T20:35:16Z" finished-at="2020-05-27T20:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoImageTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="setUp" is-config="true" duration-ms="40395" started-at="2020-05-27T20:35:17Z" finished-at="2020-05-27T20:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.crm.qa.testcases.LoginPageTest@4b952a2d]" name="loginTest" duration-ms="25027" started-at="2020-05-27T20:35:57Z" finished-at="2020-05-27T20:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
